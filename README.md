@@ -1,3 +1,4 @@
+Soy un compañero
 Hola y adios
 Probando git, haciendo mini tutorial hecho por claude
 Vamos a ver un segundo cambio
