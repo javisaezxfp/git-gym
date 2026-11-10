@@ -1,5 +1,4 @@
-Adios
+Hola y adios
 Probando git, haciendo mini tutorial hecho por claude
-Vamos a ver un tercer cambio
-Esto es la rama de prueba
-# git-gym
+Vamos a ver un segundo cambio
+# git-gym 
